@@ -777,6 +777,10 @@ PrefabInstance:
       value: Sofa_SL03_Allemuir_Stirling
       objectReference: {fileID: 0}
     - target: {fileID: 4128354613904344275, guid: 2fb839915aaece74fbd0f24eb1d61b94, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4128354613904344275, guid: 2fb839915aaece74fbd0f24eb1d61b94, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 65
       objectReference: {fileID: 0}
@@ -2211,13 +2215,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.06367465, y: 0.36619705, z: -0.02328604, w: 0.9280641}
-  m_LocalPosition: {x: -4.146, y: 8.01, z: 0.144}
+  m_LocalRotation: {x: 0.03707968, y: 0.38091895, z: -0.02436224, w: 0.9235434}
+  m_LocalPosition: {x: -5.65, y: 8.92, z: -2.77}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 7.773, y: 43.08, z: 0.197}
+  m_LocalEulerAnglesHint: {x: 4.994, y: 44.786, z: -0.963}
 --- !u!114 &963194229
 MonoBehaviour:
   m_ObjectHideFlags: 0
