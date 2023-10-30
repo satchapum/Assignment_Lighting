@@ -766,8 +766,8 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Assignment_Light
-  metroPackageVersion: 
+  metroPackageName: AssignmentLight
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -775,7 +775,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: Assignment_Light
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: Assignment_Light
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
